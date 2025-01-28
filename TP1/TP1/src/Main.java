@@ -1,20 +1,5 @@
-/*
- * MEMBRES DU GROUPE : 
-    					- Marcy Audrey DJIAHA KOUEGA
-    					- Madeleina Williamyde KANA NGAPGHO
-    					- Homerine Phalone KAPCHE TAPE
-    					- Udjine Junior YENCHI GUIMEYA (YENU65280200)
 
- * 
- * 
- * DESCRIPTION DU PROGRAMME:
- * 	Programme simulant la gestion des differents types de produits (périssable et non périssable)
- * 	Le programme effectue differente tâches. Nous avons entre autre l'ajout, la modification, la suppression
- * 	de produits, et bien d'autres.
- * 
- * Un rapport ci-joint permet de montrer les fonctionnalités du programme...
- * */
-
+ 
 
 import java.time.LocalDate;
 import java.util.Scanner;
